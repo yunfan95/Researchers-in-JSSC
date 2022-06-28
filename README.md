@@ -1,10 +1,10 @@
 # Researchers-in-JSSC
 
-Ali Medi (Sharif) https://ieeexplore.ieee.org/author/37541750900
+Ali Medi (Sharif, Iran) https://ieeexplore.ieee.org/author/37541750900
 
-Ali Hajimiri  (Caltech) https://ieeexplore.ieee.org/author/37275631100
+Ali Hajimiri  (Caltech, USA) https://ieeexplore.ieee.org/author/37275631100
 
-Hongtao Xu (Fudan) https://ieeexplore.ieee.org/author/37086347456
+Hongtao Xu (Fudan, China) https://ieeexplore.ieee.org/author/37086347456
 
 
 
